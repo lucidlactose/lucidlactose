@@ -9,9 +9,13 @@ I'm a programmer. My expertise lies in C++, but I also program in React, Java, C
 
 🔭 I’m also deepening my knowledge in React and Java.
 
-💬 Ask me about my familiarity with a technology. I've messed around quite a bit.
+💬 Ask me about my familiarity with a technology. I don't have projects, but I have messed around quite a bit.
 
-⚡ Fun fact: I don't have deep knowledge, but I know a little about alot of things.
+⚡ Fun fact: I mess around with music, art, and language.
+
+📫 Want to chat? Official business here: [e-mail](mailto:jesusvillarruel98@gmail.com). Unofficial is whereever you find me.
+
+
 
 <!--
 **lucidlactose/lucidlactose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
