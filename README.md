@@ -13,7 +13,7 @@ I'm a programmer. My expertise lies in C++, but I also program in React, Java, C
 
 ⚡ Fun fact: I mess around with music, art, and language.
 
-📫 Want to chat? Official business here: [e-mail](mailto:jesusvillarruel98@gmail.com). Unofficial is whereever you find me.
+📫 Want to chat? [LinkedIn](https://www.linkedin.com/in/jesus-villarruel/) and official business here: [e-mail](mailto:jesusvillarruel98@gmail.com). Wherever else is casual.
 
 
 
